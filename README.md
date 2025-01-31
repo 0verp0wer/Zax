@@ -17,6 +17,6 @@
 
 ### 📜 ChangeLog
 ```diff
-v1.0.0 ⋮ 19/10/2024
+v1.0.0 ⋮ 19/01/2025
 ! Initial release
 ```
